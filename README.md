@@ -33,14 +33,23 @@ Choose two additional types as needed.
 
 ## Software Features:
 •	Price Comparison: Users can browse and compare prices of medications from different pharmacies.
+
 •	Pharmacist Consultations: The app offers real-time chat functionality where users can consult with pharmacists.
+
 •	Order and Delivery Management: Users can place orders, choose delivery options (personal or to friends), and track their deliveries.
+
 •	Secure Payment Processing: The app integrates payment methods like Apple Pay and credit cards, with features like credit card scanning for easy payment.
+
 •	Login and User Authentication: Secure login for users using email and password, with enhanced security for administrators .
+
 •	Product Browsing and Search: Users can search for medications and sort results by various filters like price or pharmacy.
+
 •	Push Notifications: Users receive updates and notifications about their orders or consultations.
+
 •	GPS and Location-based Services: The app uses GPS to help users find nearby pharmacies and ensure accurate delivery addresses.
+
 •	Cart and Checkout: Users can review items in their shopping cart, adjust quantities, and proceed to checkout.
+
 •	User Feedback: Customers can rate the service they received from pharmacists.
 
 ## Installation:
